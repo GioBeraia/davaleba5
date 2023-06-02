@@ -105,12 +105,51 @@ header {
 .section2photo {
     vertical-align: top;
 }
-.button2{
+
+.button2 {
     width: 113px;
-height: 46px;
-background-color: #2A9D8F;
-border: none;
-color: #FFFFFF;
-margin-top: 56px;
+    height: 46px;
+    background-color: #2A9D8F;
+    border: none;
+    color: #FFFFFF;
+    margin-top: 56px;
 }
 
+/* section 3  */
+.section3 {
+    width: 1180px;
+    margin-inline: auto;
+    /* background-color: coral; */
+    margin-top: 200px;
+}
+
+.section3header {
+    margin-bottom: 54px;
+    font-weight: 500;
+    font-size: 48px;
+    width: 515px
+    
+}
+
+.section3photo {
+    margin-right: 15px;
+}
+
+.section3text1 {
+    font-weight: 400;
+    font-size: 24px;
+    color: #535353;
+    display: inline-block;
+    margin-right: 180px;
+    margin-top: 32px;
+
+}
+
+.section3text2 {
+    font-weight: 400;
+    font-size: 24px;
+    color: #535353;
+    display: inline-block;
+    margin-top: 32px;
+
+}
