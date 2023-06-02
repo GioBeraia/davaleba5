@@ -128,7 +128,6 @@ header {
     font-weight: 500;
     font-size: 48px;
     width: 515px
-    
 }
 
 .section3photo {
@@ -152,4 +151,53 @@ header {
     display: inline-block;
     margin-top: 32px;
 
+}
+
+/* text ebis gacentvra da im adgilze dakeneba rogor figmashia ar gamomivida  */
+
+/* footer   */
+
+footer {
+    background-color: #2A9D8F;
+    width: 1440px;
+    margin-inline: auto;
+    padding: 90px 130px 148px 130px;
+    margin-top: 200px;
+
+}
+.footerlogo{
+    vertical-align: top;
+}
+
+.footerdiv1 {
+    /* background-color:brown; */
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 634px;
+    vertical-align: top;
+}
+.ulli1{
+    margin-bottom: 21px;
+    
+}
+.ulli2{
+    margin-bottom: 8px;
+}
+.footerdiv2{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-inline:  42px;
+    vertical-align: top;
+}
+
+.footerdiv3{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    vertical-align: top;
 }
