@@ -36,3 +36,27 @@ button {
     color: #2A9D8F;
 
 }
+/* section 1  */
+
+.section1{
+    width: 780px;
+    margin-inline: auto;
+    /* background-color: aqua; */
+    margin-top: 200px;
+}
+.section1header{
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 130%;
+    color: #4D4D4D;
+    margin-bottom: 60px;
+}
+.section1text1, .section1text2{
+    font-weight: 400;
+font-size: 20px;
+line-height: 150%;
+color: #656565;
+}
+.section1text1{
+    margin-bottom: 52px;
+}
