@@ -1,0 +1,38 @@
+/* header  */
+
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+}
+
+.headerlogo {
+    padding: 38px 0 38px 130px;
+    vertical-align: middle;
+}
+
+.headernav {
+    color: #FFFFFF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 357px;
+}
+
+.headerli {
+    display: inline-block;
+}
+
+.middleli {
+    margin-inline: 51px;
+}
+
+button {
+    margin-left: 373px;
+    background-color: #FFFFFF;
+    width: 147px;
+    height: 46px;
+    border: none;
+    vertical-align: middle;
+    color: #2A9D8F;
+
+}
