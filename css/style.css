@@ -17,12 +17,14 @@ header {
     display: inline-block;
     vertical-align: middle;
     margin-left: 357px;
-    font-family: 'Nerko One', cursive;
+
 }
 
 .headerli {
     display: inline-block;
-   
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Nerko One', cursive;
 }
 
 .middleli {
@@ -30,16 +32,22 @@ header {
 }
 
 .button1 {
-    margin-left: 373px;
+    margin-left: 343px;
     background-color: #FFFFFF;
     width: 147px;
     height: 46px;
     border: none;
     vertical-align: middle;
+
+
+
+}
+
+.buttontext {
     color: #2A9D8F;
     font-family: 'Poppins', sans-serif;
-    
-
+    font-weight: 600;
+    font-size: 20px;
 }
 
 
@@ -81,7 +89,7 @@ header {
     margin-top: 200px;
     padding: 80px 130px 80px 130px;
     margin-inline: auto;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
 }
 
 .section2div {
@@ -94,19 +102,21 @@ header {
 
 .section2header {
     display: inline-block;
-    font-size: 32px;
     color: #272727;
     /* background-color: chartreuse; */
     margin-bottom: 27px;
+    font-weight: 500;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+
 }
 
 .section2text {
     font-weight: 400;
     font-size: 18px;
     color: #515151;
-    /* width: 457px; */
-    /* height: 324px; */
-    /* ver gavwele simagleze ratomgac */
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
 }
 
 .section2photo {
@@ -123,6 +133,8 @@ header {
 }
 
 /* section 3  */
+
+
 .section3 {
     width: 1180px;
     margin-inline: auto;
@@ -174,7 +186,8 @@ footer {
     font-family: 'Poppins', sans-serif;
 
 }
-.footerlogo{
+
+.footerlogo {
     vertical-align: top;
 }
 
@@ -187,23 +200,26 @@ footer {
     margin-left: 634px;
     vertical-align: top;
 }
-.ulli1{
+
+.ulli1 {
     margin-bottom: 21px;
-    
+
 }
-.ulli2{
+
+.ulli2 {
     margin-bottom: 8px;
 }
-.footerdiv2{
+
+.footerdiv2 {
     display: inline-block;
     font-weight: 400;
     font-size: 18px;
     color: #FFFFFF;
-    margin-inline:  42px;
+    margin-inline: 42px;
     vertical-align: top;
 }
 
-.footerdiv3{
+.footerdiv3 {
     display: inline-block;
     font-weight: 400;
     font-size: 18px;
@@ -214,9 +230,8 @@ footer {
 
 
 
-font-family: 'Poppins', sans-serif;
+font-family: 'Poppins',
+sans-serif;
 
-font-family: 'Nerko One', cursive;
-
-
-
+font-family: 'Nerko One',
+cursive;
